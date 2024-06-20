@@ -157,6 +157,15 @@ void hallowPyramid ( int n){
 void invertedHallowPyramid( int n){
      
 }
+
+// Full Pyramid
+
+void fullPyramid(int n){}
+
+// Inverted full Pyramid
+void invertedfullPyramid(int n){}
+
+
 int main(){
 
     // cout << "Hello World" << endl;
